@@ -1,0 +1,18 @@
+-------step by step GIT Bash----------
+
+1.  cd D:
+2:  mkdir Mynew GIT
+3.dir 
+4: Mynew GIT- notepad index.html - (creating the text file)
+5. cat index.html (check the content)
+6. git init
+7- git status
+8. git add .
+9. git commit -m 'text here' (create the id username nd mail addrsss)
+10. git log (check the id n name)
+11. git remote(check connection or not)
+12. git remote add origin (paste the repo URL) --- {(made connection between local to github server)
+13. git push -u origin master (project ko track krna mtlb project ko server pr le jayega)
+
+
+ 
